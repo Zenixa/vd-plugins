@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "Zenixa test plugin",
+    "description": "hhhh",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Zenixa",
+            "id": "632751209610215425"
         }
     ],
     "main": "src/index.ts",
